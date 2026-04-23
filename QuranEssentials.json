@@ -1,8 +1,8 @@
 {
   "cities": [
  {
-      "name": "QuranNextGen",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranNextGen/main/QuranNextGen.json"
+      "name": "Fateha",
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/fateha.json"
     },
      {
       "name": "QuranEssentials",
