@@ -2,35 +2,35 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "001Fateha",
+      "name": "001 - Al-Fatiha",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/fateha.json"
     },
     {
-      "name": "Bakrah",
+      "name": "002 - Al-Baqarah",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Blackburn.json"
     },
     {
-      "name": "Yaseen",
+      "name": "036 - Ya-Sin",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
     },
     {
-      "name": "Ar-Rahman",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
-    },
-     {
-      "name": "Sajdah",
+      "name": "055 - Ar-Rahman",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
     },
     {
-      "name": "Kahaf",
+      "name": "032 - As-Sajdah",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
+    },
+    {
+      "name": "018 - Al-Kahf",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
     },
-      {
-      "name": "Wakia",
+    {
+      "name": "056 - Al-Waqi'ah",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
     },
-{
-      "name": "Mulk",
+    {
+      "name": "067 - Al-Mulk",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Nuneaton.json"
     }
   ]
