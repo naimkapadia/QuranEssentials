@@ -2,27 +2,35 @@
   "city": "Quran Radio",
   "stations": [
     {
-      "name": "Fateha",
+      "name": "001Fateha",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/fateha.json"
     },
     {
-      "name": "Blackburn",
+      "name": "Bakrah",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Blackburn.json"
     },
     {
-      "name": "Coventry",
+      "name": "Yaseen",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
     },
     {
-      "name": "Leicester",
+      "name": "Ar-Rahman",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
+    },
+     {
+      "name": "Sajdah",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
     },
     {
-      "name": "London-East",
+      "name": "Kahaf",
+      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
+    },
+      {
+      "name": "Wakia",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
     },
 {
-      "name": "Nuneaton",
+      "name": "Mulk",
       "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Nuneaton.json"
     }
   ]
