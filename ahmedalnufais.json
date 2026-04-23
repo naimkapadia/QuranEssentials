@@ -1,1 +1,10 @@
-
+{
+  "city": "Fateha",
+  "stations": [
+         
+    {
+      "name": "Birmingham Central Mosque",
+      "url": "http://cast6.asurahosting.com/proxy/syed/stream"
+    } 
+  ]
+}
