@@ -1,34 +1,10 @@
 {
-  "city": "Quran Radio",
+  "city": "Fateha",
   "stations": [
- {
-      "name": "Ahmed al nufais",
-      "url": "https://www.codeform3d.com/001nufais.wav"
-    },
-    
+         
     {
-      "name": "Haythan",
-      "url": "http://www.codeform3d.com/Yasin AlHaarith.wav"
-    },
-    {
-      "name": "Mishari",
-      "url": "http://www.codeform3d.com/Fath AlHaarith.wav"
-    },
-    {
-      "name": "IbiIdris-Taha",
-      "url": "http://www.codeform3d.com/Taha ibiidris.wav"
-    },
-    {
-      "name": "IbiIdris-Isra",
-      "url": "http://www.codeform3d.com/Isra ibiidris.wav"
-    },
-    {
-      "name": "new",
-      "url": "http://www.codeform3d.com/Q005.wav"
-    },
-       {
-      "name": "new 2",
-      "url": "http://www.codeform3d.com/Q060.wav"
-    }
-     ]
+      "name": "Birmingham Central Mosque",
+      "url": "http://cast6.asurahosting.com/proxy/syed/stream"
+    } 
+  ]
 }
