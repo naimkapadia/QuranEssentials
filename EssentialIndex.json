@@ -3,43 +3,43 @@
   "stations": [
     {
       "name": "001 - Al-Fatiha",
-      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/fateha.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/fatiha.json"
     },
     {
       "name": "002 - Al-Baqarah",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Blackburn.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/Baqarah.json"
     },
     {
       "name": "018 - Al-Kahf",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/alkahf.json"
     },
      {
       "name": "019 - Maryam",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/maryam.json"
     },
     {
       "name": "032 - As-Sajdah",
-      "url": "https://raw.githubusercontent.com/naimkapia/Cities/refs/heads/main/Leicester.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/assajdah.json"
     },
     {
       "name": "036 - Ya-Sin",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/yasin.json"
     },
     {
       "name": "044 - Ad-Dukhan",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Birmingham.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/dukhan.json"
     },
     {
       "name": "055 - Ar-Rahman",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Leicester.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/arrahman.jsonn"
     },
     {
       "name": "056 - Al-Waqi'ah",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/London-East.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/waqiah.json"
     },
     {
       "name": "067 - Al-Mulk",
-      "url": "https://raw.githubusercontent.com/naimkapadia/Cities/refs/heads/main/Nuneaton.json"
+      "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/mulk.json"
     }
   ]
 }
