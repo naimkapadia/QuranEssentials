@@ -3,6 +3,10 @@
   "stations": [
          
     {
+      "name": "Hazzalbalushi",
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/has036.wav"
+    },
+     {
       "name": "Ahmedalnufais",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/nuf036.wav"
     } ,
