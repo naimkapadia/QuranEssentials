@@ -3,9 +3,13 @@
   "stations": [
          
     {
+      "name": "Hazzaalbalushi",
+      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/has067.wav"
+    },
+     {
       "name": "Ahmedalnufais",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/nuf067.wav"
-    } ,
+    },
      {
       "name": "Haithamaldukain",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/hai067.wav"
