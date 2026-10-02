@@ -3,14 +3,9 @@
   "stations": [
            {
       "name": "Ahmedalnufais",
-      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/nuf002.wav"
-    },
-     {
-      "name": "test",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/nuf002.mp3"
     },
-
-           {
+                {
       "name": "Haithamaldukain",
       "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/hai002.wav"
     },
