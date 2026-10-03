@@ -4,19 +4,19 @@
          
     {
       "name": "Hazzaalbalushi",
-      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/has067.mp3"
+      "url": "http://192.168.68.120:8000/has067.mp3"
     },
      {
       "name": "Ahmedalnufais",
-      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/nuf067.mp3"
+      "url": "http://192.168.68.120:8000/nuf067.mp3"
     },
      {
       "name": "Haithamaldukain",
-      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/hai067.mp3"
+      "url": "http://192.168.68.120:8000/hai067.mp3"
     },
     {
       "name": "MisharialAfasi",
-      "url": "http://pub-cd353adecbdc47abb7b8eb0b65b13d7a.r2.dev/mis067.mp3"
+      "url": "http://192.168.68.120:8000/mis067.mp3"
     } 
   ]
 }
