@@ -40,6 +40,10 @@
     {
       "name": "067 - Al-Mulk",
       "url": "https://raw.githubusercontent.com/naimkapadia/QuranEssentials/main/mulk.json"
+    },
+    {
+      "name": "Quran Ruqya",
+      "url": "http://192.168.68.120:8000/quranruqya/RuqyaSurahAlBaqarahPeacefulOmarHisham.mp3"
     }
   ]
 }
